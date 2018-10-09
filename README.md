@@ -2,7 +2,7 @@
 
 Can the political party of a congress members be identified by their photo?
 
-## Why 
+## Inspiration
 This was part of my homework for Part 1 of fast.ai's Deep Learning Course. It required searching for a new dataset to train an image classifier on. I was curious if a model could learn to determine a congress members party by their photo. So, I pieced together code to scrape images and tried to build a learner...
 
 
