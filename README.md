@@ -11,7 +11,7 @@ This was part of my homework for Part 1 of fast.ai's Deep Learning Course. It re
 
 ## Why did it fail?
 
-Might have to do with the shifting platform of each party across time. The consistency of the data might be improved by only looking at images of members from certain decades. 
+The platforms of each party have somewhat shifted over time. The consistency of the data might be improved by only looking at the image/party of members from certain decades. 
 
 Also, some members later changed parties or left the party they're listed under on the congress.gov site. This information was not always reflected there. Improvements might be made by treating the problem as a multiclass problem. 
 
