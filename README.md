@@ -22,4 +22,5 @@ https://osf.io/zn79k/
 ## The Files 
 
 scraping-congress-members.ipynb : notebook with code to generate data 
+
 democrats-republicans.ipynb : notebook with code to train model with data 
